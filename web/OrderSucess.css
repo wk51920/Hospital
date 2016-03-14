@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+
+body {
+    width: 450px;
+    height: 350px;
+    border: 1px solid #000;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #6FF;
+}
+
+div#center {
+    margin-left: 20;
+}
+
+#backToIndex {
+    margin-left: 150px;
+}
